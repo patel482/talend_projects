@@ -1,0 +1,2 @@
+# talend_projects
+talend_cloud_project
